@@ -1,0 +1,23 @@
+#container { 
+	text-align: center;
+	padding: 5px;
+	border-color: #0EA2E0;
+	border-style: groove;
+	border-width: 15px;
+	margin: 5px 300px 15px 300px;
+	background-color: #DFDFDF;
+}
+
+p {
+	text-align:center;
+	font-size: 30px;
+} 
+
+#ProductType {
+	text-align: center;
+	font-size: 15px;
+}
+
+#g-recaptcha {
+	text-align: right;
+}
